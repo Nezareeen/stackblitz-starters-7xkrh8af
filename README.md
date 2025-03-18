@@ -24,7 +24,6 @@ Each blog post includes the following fields:
     - Minimum length: 50 characters.  
   - **Description**: The main content of the blog post.
 
-- **Author**  
   - **Type**: `String`  
   - **Description**: Username of the author.
 
